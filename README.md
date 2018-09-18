@@ -2,6 +2,7 @@
 写的作业会上传到这里。
 还有就是自己的学习笔记以及思路，
 整理到有道云笔记上去了：
+
 http://note.youdao.com/noteshare?id=9cf2fcb5c42f89d0867ab2301d3eac2f
 
 个人主页，
@@ -15,3 +16,5 @@ http://note.youdao.com/noteshare?id=9cf2fcb5c42f89d0867ab2301d3eac2f
 项目名称为：
 Split
 ```
+第三次代码： 已经给出代码，上课时老师辅助调试，查看文件的含义。
+
